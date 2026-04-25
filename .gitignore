@@ -1,3 +1,14 @@
+# data and cache
+*.csv
+*.xlsx
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# environment
+venv/
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
