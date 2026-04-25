@@ -1,5 +1,7 @@
 # Weather-Forecasting-Python
 
-Collaborative project evaluating standard Machine Learning algorithms to forecast temperatures in Bern (12, 24, and 48-hour horizons) using approximately 90 cross-sectional covariates collected from 10 weather stations across Switzerland.
+This project evaluates standard Machine Learning algorithms to forecast temperatures in Bern (12, 24, and 48-hour horizons), using approximately 90 cross-sectional covariates collected from 10 weather stations across Switzerland. 
+
+On one hand, the code allows for the exploration of predictive models with varying degrees of complexity (OLS and Ridge, but also Random Forests and Gradient Boosting) while understanding their characteristics and flaws. On the other hand, it helps in understanding how to articulate data-leakage safe preprocessing and modeling pipelines within a complex project.
 
 The training and test datasets were provided as part of a data competition for the course "S403011 - Machine Learning" at the University of Geneva.
